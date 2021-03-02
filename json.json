@@ -1,0 +1,12 @@
+{
+    "_id": "ObjectID()",
+    "categoryID": 2,
+    "productname": "Xiaomi Mi10",
+    "productdescription": "Celular Xiaomi Telcel",
+    "supplier": "Maria",
+    "unitprice": 12000,
+    "color": "Azul",
+    "producturlpicture": "sellnow\\picture\\xiaomi_mi10.jpg",
+    "productdiscount": 2,
+    "productavailable": "True"
+}
